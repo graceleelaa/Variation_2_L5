@@ -1,6 +1,6 @@
 body{
 
-	background:green;
+	background:yellow;
 
 }
 
@@ -37,4 +37,50 @@ body{
 .circle2:hover{
 	background: #FDFF3F;
 }
+
+.circle3{
+	transition: background 1s ease;
+	width: 100px;
+	height: 100px;
+	background: #F1948A;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	border-radius: 60px;
+	float: left;
+	margin: 20px;
+}
+
+.circle3:hover{
+	background: #FF3FE5;
+}
+.circle4{
+	transition: background 1s ease;
+	width: 100px;
+	height: 100px;
+	background: #8CF8E7;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	border-radius: 60px;
+	float: left;
+	margin: 20px;
+}
+
+.circle4:hover{
+	background: #F0F68D;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
