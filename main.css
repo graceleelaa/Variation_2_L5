@@ -1,46 +1,9 @@
-* {
-	box-sizing: border-box;
-}
-
 body{
 
-	background:yellow;
-	font-family: serif;
+	background:green;
+
 }
 
-.talking-head{
-	font-weight: 700;
-	font-size: 3em;
-	text-decoration: underline;
-	width: 25%;
-	padding: 20px;
-}
-
-.main{	
-	width: 90%;
-	height: 500px;
-	margin: 100px auto;	
-	overflow: auto;
-	z-index: -1;
-}
-
-.main-2{
-	position: absolute;
-	top:300px;
-	right: 100px;
-	height: 100%;
-	opacity: 0.5;
-	z-index: 100;
-}
-
-.main-3{
-	position: absolute;
-	top:330px;
-	right: 142px;
-	height: 100%;
-	opacity: 0.2;
-	z-index: 100;
-}
 
 
 .circle{
@@ -64,11 +27,11 @@ body{
 	width: 100px;
 	height: 100px;
 	background: #3FC5FF;
-	-moz-border-radius: 50px;
-	-webkit-border-radius: 50px;
-	border-radius: 50px;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	border-radius: 60px;
 	float: left;
-	margin: 15px;
+	margin: 20px;
 }
 
 .circle2:hover{
