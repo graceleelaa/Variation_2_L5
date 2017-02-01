@@ -8,12 +8,12 @@ body{
 
 .circle{
 	transition: background 1s ease;
-	width: 100px;
-	height: 100px;
+	width: 500px;
+	height: 500px;
 	background: #B3FF3F;
-	-moz-border-radius: 50px;
-	-webkit-border-radius: 50px;
-	border-radius: 50px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
 	float: left;
 	margin: 15px;
 }
@@ -24,12 +24,12 @@ body{
 
 .circle2{
 	transition: background 1s ease;
-	width: 100px;
-	height: 100px;
+	width: 500px;
+	height: 500px;
 	background: #3FC5FF;
-	-moz-border-radius: 60px;
-	-webkit-border-radius: 60px;
-	border-radius: 60px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
 	float: left;
 	margin: 20px;
 }
@@ -40,12 +40,12 @@ body{
 
 .circle3{
 	transition: background 1s ease;
-	width: 100px;
-	height: 100px;
+	width: 500px;
+	height: 500px;
 	background: #F1948A;
-	-moz-border-radius: 60px;
-	-webkit-border-radius: 60px;
-	border-radius: 60px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
 	float: left;
 	margin: 20px;
 }
@@ -55,12 +55,12 @@ body{
 }
 .circle4{
 	transition: background 1s ease;
-	width: 100px;
-	height: 100px;
+	width: 500px;
+	height: 500px;
 	background: #8CF8E7;
-	-moz-border-radius: 60px;
-	-webkit-border-radius: 60px;
-	border-radius: 60px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
 	float: left;
 	margin: 20px;
 }
