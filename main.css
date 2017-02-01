@@ -7,7 +7,7 @@ body{
 
 
 .circle{
-	transition: background 2s ease;
+	transition: background 1s ease;
 	width: 100px;
 	height: 100px;
 	background: #B3FF3F;
@@ -23,7 +23,7 @@ body{
 }
 
 .circle2{
-	transition: background 2s ease;
+	transition: background 1s ease;
 	width: 100px;
 	height: 100px;
 	background: #3FC5FF;
